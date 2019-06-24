@@ -99,7 +99,7 @@ books = {'1373' : 'Beach Omake Preview',
         '0983' : 'Chapter 9',
         '1141' : 'Chapter 10',
         '1270' : 'Chapter 11',
-        '1383' : 'Chapter 11'
+        '1383' : 'Chapter 11',
         '1434' : 'Chapter 12',
         '0398' : 'Grand Theft Colo',
         '0516' : 'Grand Theft Colo',
